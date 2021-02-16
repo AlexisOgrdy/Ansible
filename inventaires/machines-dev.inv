@@ -1,1 +1,2 @@
-[Debian9Dev]172.16.201.99 ansible_user=root
+[Debian9Dev]
+172.16.201.99 ansible_user=root
